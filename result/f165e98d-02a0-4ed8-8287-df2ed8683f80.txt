@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p1","targetPhrase":")(:~'.)%","inputPhrase":")>(:~!*)%","timestamps":" 18:25:29) 18:25:32> 18:25:35( 18:25:37: 18:25:40~ 18:25:43! 18:25:46* 18:25:48) 18:25:49%"}

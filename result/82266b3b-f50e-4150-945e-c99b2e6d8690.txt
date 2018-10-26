@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p1","targetPhrase":"buckle up for safety","inputPhrase":"bucllem ipfpt safyeu","timestamps":" 18:18:05b 18:18:06u 18:18:07c 18:18:09l 18:18:10l 18:18:10e 18:18:11m 18:18:13  18:18:14i 18:18:16p 18:18:18f 18:18:19p 18:18:19t 18:18:21  18:18:22s 18:18:22a 18:18:23f 18:18:24y 18:18:25e 18:18:26u"}

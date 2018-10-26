@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p4","targetPhrase":"we park in driveways","inputPhrase":"qrpztlpmfto rwqu","timestamps":" 19:43:23q 19:43:23r 19:43:25p 19:43:26z 19:43:26t 19:43:27l 19:43:29p 19:43:29m 19:43:30f 19:43:30t 19:43:31o 19:43:32  19:43:32r 19:43:32w 19:43:33q 19:43:33u"}

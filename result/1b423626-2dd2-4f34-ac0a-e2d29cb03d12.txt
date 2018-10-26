@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p1","targetPhrase":"that is a an apple","inputPhrase":"that is an apple","timestamps":" 18:39:25t 18:39:27h 18:39:28a 18:39:31t 18:39:32  18:39:35i 18:39:36s 18:39:38  18:39:40a 18:39:42n 18:39:43  18:39:45a 18:39:47p 18:39:49p 18:39:50l 18:39:52e"}

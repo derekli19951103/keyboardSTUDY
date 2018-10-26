@@ -66,7 +66,7 @@ class KeyboardNormal extends React.Component {
 				opacity: 0,
 				color: "white"
 			},
-			keyboardImg : "/images/ZoomBoard3b.png",
+			keyboardImg : "/images/symbols3b.png",
 			overlayText : "",
 			originalDimensions : {width:0, height:0}
 		};

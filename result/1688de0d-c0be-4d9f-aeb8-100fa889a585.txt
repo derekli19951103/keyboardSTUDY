@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p4","targetPhrase":"/4>!0{*{","inputPhrase":"/4<!=]-","timestamps":" 20:07:50/ 20:07:524 20:07:54< 20:07:57! 20:08:01= 20:08:03] 20:08:04-"}

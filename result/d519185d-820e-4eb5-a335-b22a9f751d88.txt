@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p3","targetPhrase":"time to go shopping","inputPhrase":"gi,rtpglzhoppi g","timestamps":" 22:31:00g 22:31:01i 22:31:03, 22:31:04r 22:31:06t 22:31:07p 22:31:08g 22:31:09l 22:31:10z 22:31:12h 22:31:13o 22:31:14p 22:31:15p 22:31:17i 22:31:18  22:31:19g"}

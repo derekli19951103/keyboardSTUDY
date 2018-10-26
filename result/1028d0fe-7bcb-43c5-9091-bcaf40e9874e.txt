@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"<_@$;.<]","inputPhrase":"@~2$$(","timestamps":" 18:30:08@ 18:30:12~ 18:30:132 18:30:15$ 18:30:16$ 18:30:19("}

@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"fish are jumping","inputPhrase":"g9%6^>@37754#","timestamps":" 22:39:20g 22:39:229 22:39:23% 22:39:246 22:39:24^ 22:39:24> 22:39:24@ 22:39:243 22:39:247 22:39:247 22:39:255 22:39:254 22:39:25#"}

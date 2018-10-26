@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"the cotton is high","inputPhrase":"thecottonisfkh","timestamps":" 22:42:11t 22:42:13h 22:42:15e 22:42:17c 22:42:19o 22:42:21t 22:42:27t 22:42:30o 22:42:32n 22:42:34i 22:42:36s 22:42:37f 22:42:38k 22:42:39h"}

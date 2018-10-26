@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"34+=89<%","inputPhrase":"33+89<%","timestamps":" 23:02:453 23:02:463 23:02:49+ 23:02:518 23:02:529 23:02:54< 23:02:55%"}

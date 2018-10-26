@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p2","targetPhrase":"the power of denial","inputPhrase":"tjhe poer pg denoal","timestamps":" 16:52:33t 16:52:35j 16:52:43h 16:52:44e 16:52:46  16:52:48p 16:52:49o 16:52:50e 16:52:52r 16:52:54  16:52:55p 16:52:57g 16:53:00  16:53:01d 16:53:02e 16:53:04n 16:53:05o 16:53:06a 16:53:08l"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p4","targetPhrase":"+73/^<0<","inputPhrase":"+73/^:0<","timestamps":" 20:09:44+ 20:09:467 20:09:463 20:09:49/ 20:09:53^ 20:09:55: 20:09:570 20:09:58<"}

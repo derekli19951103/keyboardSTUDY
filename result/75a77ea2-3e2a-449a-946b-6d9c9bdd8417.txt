@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"}&%'|=","inputPhrase":"-1#}","timestamps":" 18:29:41- 18:29:421 18:29:45# 18:29:46}"}

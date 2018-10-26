@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"<_@$;.<]","inputPhrase":">-!${#)","timestamps":" 18:30:26> 18:30:30- 18:30:32! 18:30:35$ 18:30:37{ 18:30:39# 18:30:40)"}

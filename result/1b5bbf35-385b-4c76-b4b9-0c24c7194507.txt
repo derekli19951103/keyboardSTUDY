@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p1","targetPhrase":"buckle up for safety","inputPhrase":"bivolr ip,gotm dagryy ","timestamps":" 18:17:23b 18:17:25i 18:17:26v 18:17:27o 18:17:28l 18:17:29r 18:17:30  18:17:30i 18:17:31p 18:17:32, 18:17:33g 18:17:34o 18:17:34t 18:17:35m 18:17:37  18:17:38d 18:17:39a 18:17:40g 18:17:41r 18:17:42y 18:17:42y 18:17:43 "}

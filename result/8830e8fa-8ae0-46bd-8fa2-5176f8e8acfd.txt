@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p4","targetPhrase":"{{9^%>4>","inputPhrase":"{{9^%;4>","timestamps":" 20:08:51{ 20:08:51{ 20:08:539 20:08:57^ 20:08:59% 20:09:00; 20:09:024 20:09:03>"}

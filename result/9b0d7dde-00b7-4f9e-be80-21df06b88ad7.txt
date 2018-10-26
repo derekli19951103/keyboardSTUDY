@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p1","targetPhrase":"@/~:([)<","inputPhrase":"@/~<9&)#","timestamps":" 18:26:28@ 18:26:29/ 18:26:31~ 18:26:33< 18:26:349 18:26:35& 18:26:36) 18:26:37#"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p4","targetPhrase":"we drive on parkways","inputPhrase":"qedrohtuogpqr.eat","timestamps":" 19:44:27q 19:44:28e 19:44:29d 19:44:29r 19:44:30o 19:44:30h 19:44:30t 19:44:30u 19:44:31o 19:44:32g 19:44:33p 19:44:34q 19:44:34r 19:44:34. 19:44:35e 19:44:35a 19:44:35t"}

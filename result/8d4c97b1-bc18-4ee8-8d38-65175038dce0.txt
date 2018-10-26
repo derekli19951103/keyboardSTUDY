@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"toss the ball around","inputPhrase":"toss the ball around","timestamps":" 19:47:07t 19:47:09o 19:47:10s 19:47:12s 19:47:14  19:47:15t 19:47:17h 19:47:19e 19:47:21  19:47:23b 19:47:24a 19:47:26l 19:47:29l 19:47:30  19:47:32a 19:47:34r 19:47:36o 19:47:38u 19:47:40n 19:47:42d"}

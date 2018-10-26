@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"the world is a stage","inputPhrase":"yjw borldy if stahr","timestamps":" 00:03:55y 00:03:56j 00:03:58w 00:03:59  00:04:01b 00:04:03o 00:04:04r 00:04:06l 00:04:08d 00:04:10y 00:04:11  00:04:13i 00:04:14f 00:04:16  00:04:17s 00:04:19t 00:04:20a 00:04:22h 00:04:23r"}

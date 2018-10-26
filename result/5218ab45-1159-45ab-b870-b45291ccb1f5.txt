@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"rain rain go away","inputPhrase":"rainraintoqeaw","timestamps":" 22:49:57r 22:50:00a 22:50:03i 22:50:05n 22:50:08r 22:50:10a 22:50:13i 22:50:15n 22:50:17t 22:50:19o 22:50:21q 22:50:23e 22:50:25a 22:50:28w"}

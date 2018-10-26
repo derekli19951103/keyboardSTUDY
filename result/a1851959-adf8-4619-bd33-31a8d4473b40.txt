@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p4","targetPhrase":"333%2]^4","inputPhrase":"43%@375","timestamps":" 00:51:314 00:51:333 00:51:34% 00:51:35@ 00:51:373 00:51:387 00:51:395"}

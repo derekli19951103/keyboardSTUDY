@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"the living is easy","inputPhrase":"thelivo gizeasy","timestamps":" 22:46:02t 22:46:03h 22:46:04e 22:46:06l 22:46:07i 22:46:08v 22:46:10o 22:46:11  22:46:13g 22:46:15i 22:46:16z 22:46:18e 22:46:19a 22:46:21s 22:46:23y"}

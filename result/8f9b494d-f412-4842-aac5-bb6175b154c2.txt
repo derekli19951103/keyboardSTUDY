@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"play it again sam","inputPhrase":"ppiayorwqa^#+","timestamps":" 22:38:38p 22:38:38p 22:38:39i 22:38:41a 22:38:42y 22:38:43o 22:38:44r 22:38:46w 22:38:47q 22:38:51a 22:38:55^ 22:38:56# 22:38:56+"}

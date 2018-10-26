@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"I agree with you","inputPhrase":"lmahteegreeith you","timestamps":" 00:08:37l 00:08:40m 00:08:50a 00:08:52h 00:08:53t 00:08:55e 00:08:57e 00:08:59g 00:09:00r 00:09:01e 00:09:04e 00:09:05i 00:09:07t 00:09:08h 00:09:10  00:09:11y 00:09:13o 00:09:18u"}

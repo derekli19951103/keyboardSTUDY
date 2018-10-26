@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"fish are jumping","inputPhrase":".fish,vardjumlping","timestamps":" 22:41:21. 22:41:23f 22:41:25i 22:41:26s 22:41:28h 22:41:30, 22:41:33v 22:41:35a 22:41:37r 22:41:39d 22:41:42j 22:41:43u 22:41:45m 22:41:48l 22:41:52p 22:41:53i 22:41:55n 22:41:57g"}

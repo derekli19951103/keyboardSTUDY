@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"$$$??//:<","inputPhrase":"$$$/\\\\/<\"","timestamps":" 14:57:27$ 14:57:29$ 14:57:30$ 14:57:33/ 14:57:34\\ 14:57:41\\ 14:57:42/ 14:57:45< 14:57:47\""}

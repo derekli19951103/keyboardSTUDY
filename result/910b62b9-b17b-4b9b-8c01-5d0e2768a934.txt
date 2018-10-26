@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p1","targetPhrase":"you have my sympathy","inputPhrase":"ypu habe ,u sympathy","timestamps":" 18:35:55y 18:35:56p 18:35:58u 18:35:59  18:36:00h 18:36:01a 18:36:03b 18:36:05e 18:36:06  18:36:08, 18:36:09u 18:36:11  18:36:12s 18:36:14y 18:36:16m 18:36:17p 18:36:19a 18:36:20t 18:36:22h 18:36:23y"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p4","targetPhrase":">]1%{7%$","inputPhrase":">]1%{7%$","timestamps":" 20:05:10> 20:05:12] 20:05:141 20:05:16% 20:05:22{ 20:05:247 20:05:27% 20:05:30$"}

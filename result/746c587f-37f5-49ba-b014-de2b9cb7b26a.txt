@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p1","targetPhrase":"/;{}>}@)","inputPhrase":"/;{&$!0","timestamps":" 18:27:11/ 18:27:13; 18:27:14{ 18:27:15& 18:27:18$ 18:27:20! 18:27:220"}

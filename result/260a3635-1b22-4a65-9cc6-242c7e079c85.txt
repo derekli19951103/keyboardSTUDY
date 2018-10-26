@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p4","targetPhrase":"time to go shopping","inputPhrase":"ti lrtpfpxhsplmyf","timestamps":" 23:07:20t 23:07:20i 23:07:21  23:07:21l 23:07:22r 23:07:24t 23:07:25p 23:07:26f 23:07:26p 23:07:27x 23:07:28h 23:07:28s 23:07:29p 23:07:30l 23:07:31m 23:07:31y 23:07:31f"}

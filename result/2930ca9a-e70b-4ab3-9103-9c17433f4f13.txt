@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p1","targetPhrase":"he is still on our team","inputPhrase":"heis stil on our team","timestamps":" 18:34:04h 18:34:06e 18:34:09i 18:34:11s 18:34:13  18:34:15s 18:34:18t 18:34:19i 18:34:22l 18:34:25  18:34:28o 18:34:30n 18:34:32  18:34:34o 18:34:36u 18:34:38r 18:34:39  18:34:41t 18:34:43e 18:34:45a 18:34:47m"}

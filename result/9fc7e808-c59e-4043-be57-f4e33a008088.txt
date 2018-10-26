@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p1","targetPhrase":"fish are jumping","inputPhrase":"wuet zy kulpmhc","timestamps":" 18:22:47w 18:22:48u 18:22:49e 18:22:50t 18:22:51  18:22:52z 18:22:53y 18:23:00  18:23:01k 18:23:01u 18:23:02l 18:23:02p 18:23:02m 18:23:02h 18:23:03c"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p1","targetPhrase":"&&::=?+!","inputPhrase":"&&::=?+!","timestamps":" 15:10:31& 15:10:32& 15:10:35: 15:10:37: 15:10:42= 15:10:45? 15:10:50+ 15:10:56!"}

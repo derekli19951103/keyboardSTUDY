@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"+=1234<>","inputPhrase":"  =1253<>","timestamps":" 23:07:01  23:07:04  23:07:07= 23:07:111 23:07:152 23:07:165 23:07:183 23:07:23< 23:07:25>"}

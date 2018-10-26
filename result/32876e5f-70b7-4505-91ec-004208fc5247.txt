@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p4","targetPhrase":"]%2{#{$/","inputPhrase":"[[524/>#","timestamps":" 00:49:29[ 00:49:31[ 00:49:325 00:49:332 00:49:344 00:49:35/ 00:49:35> 00:49:36#"}

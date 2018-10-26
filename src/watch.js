@@ -97,7 +97,9 @@ class Watch extends React.Component {
 		console.log(this.props.type===undefined);
 		this.type = (this.props.type === undefined) ? this.props.match.params.type : this.props.type;
 		this.originalScale = (this.props.originalScale === undefined)?this.props.match.params.scaleVal : this.props.originalScale;
-
+		this.userid = (this.props.userid === undefined) ? this.props.match.params.userid : this.props.userid;
+		this.mode = (this.props.mode === undefined) ? this.props.match.params.mode : this.props.mode;
+		this.movement = (this.props.movement === undefined) ? this.props.match.params.movement : this.props.movement;
 		//this.type = this.props.match.params.type;
 		//this.originalScale = this.props.match.params.scaleVal;
 		console.log("[Watch] type: "+this.type);
@@ -110,11 +112,12 @@ class Watch extends React.Component {
 		// 	setState({});
 		this.state = {
 			inputPhrase: "",
-			inputChar: ""
+			inputChar: "",
+			inputtime:""
 		};
 
 		//add the target phrases here or load them from external files
-		this.targetPhrase =  "target phrase one";
+		this.targetPhrase =  ">&$?#9$}";
 
 
 		// For Debug, uncomment only if you want to measure exact width and height in pixels.
@@ -137,6 +140,8 @@ class Watch extends React.Component {
 	onKeyCharReceived = (c) => {
 		this.setState({inputChar : c});
 		this.state.inputPhrase += c;
+		this.state.inputtime += Date(Date.now()).toString().substring(15,24);
+		this.state.inputtime += c;
 	};
 
 
@@ -145,10 +150,15 @@ class Watch extends React.Component {
 	//TODO: you need to log other measurements, such as the time when a user inputs each char, user id, etc.
 	saveData = () => {
 		let log_file = JSON.stringify({
+			movement: this.movement,
+			type: this.type,
+			mode: this.mode,
+			user: this.userid,
 			targetPhrase: this.targetPhrase,
-			inputPhrase: this.state.inputPhrase
+			inputPhrase: this.state.inputPhrase,
+			timestamps: this.state.inputtime
 		})
-		download(log_file, "results.txt", "text/plain");
+		download(log_file, "results.json", "text/plain");
 	}
 
 

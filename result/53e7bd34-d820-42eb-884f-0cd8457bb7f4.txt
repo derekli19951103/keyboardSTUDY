@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p3","targetPhrase":"12345678","inputPhrase":"\"1#456io","timestamps":" 23:00:00\" 23:00:011 23:00:02# 23:00:044 23:00:055 23:00:066 23:00:08i 23:00:09o"}

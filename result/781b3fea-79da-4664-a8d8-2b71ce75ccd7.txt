@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p4","targetPhrase":"rain rain go away","inputPhrase":"tziktap hpaqaw","timestamps":" 19:42:51t 19:42:51z 19:42:51i 19:42:52k 19:42:53t 19:42:53a 19:42:54p 19:42:54  19:42:56h 19:42:57p 19:42:57a 19:42:58q 19:42:58a 19:42:58w"}

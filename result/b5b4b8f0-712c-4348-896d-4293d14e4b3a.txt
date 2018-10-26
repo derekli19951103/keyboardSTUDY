@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p4","targetPhrase":"toss the ball around","inputPhrase":"ypxxy.t a.pztpmg","timestamps":" 19:45:42y 19:45:43p 19:45:43x 19:45:43x 19:45:44y 19:45:44. 19:45:45t 19:45:45  19:45:45a 19:45:46. 19:45:46p 19:45:47z 19:45:47t 19:45:48p 19:45:48m 19:45:49g"}

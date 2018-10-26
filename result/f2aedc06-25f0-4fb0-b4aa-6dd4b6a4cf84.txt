@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p3","targetPhrase":"the world is a stage","inputPhrase":"thewprldisaatabe","timestamps":" 22:34:02t 22:34:03h 22:34:04e 22:34:05w 22:34:06p 22:34:07r 22:34:08l 22:34:09d 22:34:11i 22:34:12s 22:34:12a 22:34:14a 22:34:15t 22:34:16a 22:34:17b 22:34:19e"}

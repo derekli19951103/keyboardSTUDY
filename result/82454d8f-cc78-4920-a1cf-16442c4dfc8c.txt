@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p2","targetPhrase":"time to go shopping","inputPhrase":"yk.e tp ypskpppomg","timestamps":" 19:02:16y 19:02:16k 19:02:17. 19:02:17e 19:02:18  19:02:19t 19:02:19p 19:02:19  19:02:20y 19:02:21p 19:02:21s 19:02:22k 19:02:22p 19:02:23p 19:02:24p 19:02:24o 19:02:25m 19:02:25g"}

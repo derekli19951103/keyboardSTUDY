@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p1","targetPhrase":"have a good weekend","inputPhrase":"hqvw a yopd wrelemd","timestamps":" 18:15:57h 18:15:57q 18:15:58v 18:15:59w 18:16:00  18:16:01a 18:16:01  18:16:02y 18:16:03o 18:16:03p 18:16:04d 18:16:04  18:16:05w 18:16:06r 18:16:07e 18:16:08l 18:16:09e 18:16:10m 18:16:11d"}

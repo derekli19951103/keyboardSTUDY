@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p1","targetPhrase":"/;{}>}@)","inputPhrase":"/<{}>@)","timestamps":" 18:27:32/ 18:27:34< 18:27:36{ 18:27:37} 18:27:40> 18:27:42@ 18:27:43)"}

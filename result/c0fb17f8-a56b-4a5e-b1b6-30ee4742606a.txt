@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"peek out the window","inputPhrase":"prek out of the window","timestamps":" 19:55:47p 19:55:49r 19:55:51e 19:55:53k 19:55:55  19:55:56o 19:55:58u 19:56:00t 19:56:03  19:56:05o 19:56:07f 19:56:08  19:56:10t 19:56:12h 19:56:14e 19:56:16  19:56:18w 19:56:20i 19:56:21n 19:56:23d 19:56:25o 19:56:27w"}

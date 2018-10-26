@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p1","targetPhrase":"sad to hear that news","inputPhrase":"sad toheat that news","timestamps":" 18:36:33s 18:36:35a 18:36:36d 18:36:38  18:36:39t 18:36:40o 18:36:43h 18:36:44e 18:36:46a 18:36:48t 18:36:49  18:36:51t 18:36:52h 18:36:54a 18:36:56t 18:36:59  18:37:01n 18:37:03e 18:37:04w 18:37:07s"}

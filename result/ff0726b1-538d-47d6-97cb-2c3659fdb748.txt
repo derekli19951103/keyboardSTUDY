@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"+=1234<>","inputPhrase":"=]23^:}>","timestamps":" 23:06:02= 23:06:09] 23:06:172 23:06:213 23:06:28^ 23:06:33: 23:06:40} 23:06:44>"}

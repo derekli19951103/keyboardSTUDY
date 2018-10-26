@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p3","targetPhrase":"=<>$%#?/","inputPhrase":"=\"}-<+ 9{","timestamps":" 22:57:44= 22:57:46\" 22:57:47} 22:57:48- 22:57:48< 22:57:49+ 22:57:54  22:57:559 22:57:56{"}

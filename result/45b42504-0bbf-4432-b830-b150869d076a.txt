@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p4","targetPhrase":"6+269>!<","inputPhrase":"6+269>!<","timestamps":" 20:01:116 20:01:14+ 20:01:162 20:01:186 20:01:209 20:01:25> 20:01:27! 20:01:32<"}

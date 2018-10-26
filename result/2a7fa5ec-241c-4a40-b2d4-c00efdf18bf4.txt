@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p3","targetPhrase":"love means many things","inputPhrase":"...pd eznsmanythimgds","timestamps":" 22:32:28. 22:32:28. 22:32:30. 22:32:32p 22:32:34d 22:32:35  22:32:37e 22:32:38z 22:32:39n 22:32:40s 22:32:42m 22:32:43a 22:32:44n 22:32:45y 22:32:47t 22:32:48h 22:32:49i 22:32:50m 22:32:51g 22:32:53d 22:32:54s"}

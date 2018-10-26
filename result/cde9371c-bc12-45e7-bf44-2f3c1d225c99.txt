@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"time to go shopping","inputPhrase":"tome totozhoppku 4","timestamps":" 23:12:00t 23:12:01o 23:12:03m 23:12:09e 23:12:12  23:12:20t 23:12:23o 23:12:25t 23:12:26o 23:12:31z 23:12:33h 23:12:34o 23:12:35p 23:12:36p 23:12:38k 23:12:39u 23:12:39  23:12:404"}

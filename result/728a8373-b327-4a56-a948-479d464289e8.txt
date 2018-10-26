@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p4","targetPhrase":"we are having spaghetti","inputPhrase":"weatenz hieosoqyitttp","timestamps":" 23:04:39w 23:04:40e 23:04:41a 23:04:41t 23:04:42e 23:04:44n 23:04:44z 23:04:45  23:04:46h 23:04:47i 23:04:47e 23:04:48o 23:04:49s 23:04:50o 23:04:50q 23:04:53y 23:04:53i 23:04:54t 23:04:55t 23:04:57t 23:04:57p"}

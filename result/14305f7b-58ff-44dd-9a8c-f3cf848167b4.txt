@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"time to go shopping","inputPhrase":"time to go shopping","timestamps":" 19:58:33t 19:58:35i 19:58:37m 19:58:38e 19:58:40  19:58:42t 19:58:44o 19:58:46  19:58:48g 19:58:49o 19:58:51  19:58:53s 19:58:55h 19:58:57o 19:58:58p 19:59:00p 19:59:01i 19:59:03n 19:59:05g"}

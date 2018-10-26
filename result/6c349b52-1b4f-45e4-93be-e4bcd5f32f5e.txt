@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"nobody cares anymore","inputPhrase":"nmbodycaresanymore","timestamps":" 22:48:55n 22:48:57m 22:48:59b 22:49:04o 22:49:05d 22:49:07y 22:49:10c 22:49:11a 22:49:12r 22:49:14e 22:49:15s 22:49:19a 22:49:21n 22:49:22y 22:49:24m 22:49:26o 22:49:27r 22:49:29e"}

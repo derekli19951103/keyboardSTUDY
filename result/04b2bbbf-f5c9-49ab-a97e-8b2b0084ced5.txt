@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"breathing is difficult","inputPhrase":"breathing is difficult","timestamps":" 19:56:50b 19:56:52r 19:56:54e 19:56:55a 19:56:57t 19:56:59h 19:57:01i 19:57:02n 19:57:04g 19:57:06  19:57:07i 19:57:09s 19:57:10  19:57:12d 19:57:13i 19:57:15f 19:57:17f 19:57:19i 19:57:20c 19:57:22u 19:57:24l 19:57:26t"}

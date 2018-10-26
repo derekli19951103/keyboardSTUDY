@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"the world is a stage","inputPhrase":"ehew.kc\"","timestamps":" 22:35:07e 22:35:08h 22:35:09e 22:35:11w 22:35:12. 22:35:13k 22:35:14c 22:35:17\""}

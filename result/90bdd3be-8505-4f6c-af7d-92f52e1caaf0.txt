@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p4","targetPhrase":"]%2{#{$/","inputPhrase":"-{3[^>","timestamps":" 00:49:18- 00:49:20{ 00:49:213 00:49:22[ 00:49:22^ 00:49:23>"}

@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p3","targetPhrase":"908:76+=","inputPhrase":"[8)08077{#","timestamps":" 22:58:52[ 22:58:548 22:58:56) 22:58:570 22:58:588 22:59:000 22:59:027 22:59:037 22:59:06{ 22:59:07#"}

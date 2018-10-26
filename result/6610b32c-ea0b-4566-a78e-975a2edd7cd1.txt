@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p3","targetPhrase":"++==<>%$","inputPhrase":"{ejcj.tah","timestamps":" 22:55:35{ 22:55:36e 22:55:38j 22:55:38c 22:55:38j 22:55:38. 22:55:38t 22:55:39a 22:55:39h"}

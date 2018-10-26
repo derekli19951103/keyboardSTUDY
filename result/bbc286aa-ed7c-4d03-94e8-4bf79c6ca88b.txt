@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"{?~#><[/","inputPhrase":"{ /3#%>+","timestamps":" 18:31:00{ 18:31:05  18:31:06/ 18:31:103 18:31:12# 18:31:13% 18:31:14> 18:31:18+"}

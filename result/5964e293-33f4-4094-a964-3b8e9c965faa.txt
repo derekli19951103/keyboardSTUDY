@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"the world is a stage","inputPhrase":"tmwmworkoyaqstahr","timestamps":" 22:35:32t 22:35:33m 22:35:34w 22:35:35m 22:35:36w 22:35:37o 22:35:38r 22:35:39k 22:35:40o 22:35:41y 22:35:41a 22:35:42q 22:35:43s 22:35:44t 22:35:45a 22:35:46h 22:35:47r"}

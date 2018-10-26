@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"symbol","user":"p4","targetPhrase":">]1%{7%$","inputPhrase":"{[1%7%$","timestamps":" 20:07:23{ 20:07:25[ 20:07:261 20:07:27% 20:07:287 20:07:29% 20:07:31$"}

@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p3","targetPhrase":"908:76+=","inputPhrase":"9))67 +","timestamps":" 22:59:159 22:59:16) 22:59:19) 22:59:196 22:59:227 22:59:26  22:59:26+"}

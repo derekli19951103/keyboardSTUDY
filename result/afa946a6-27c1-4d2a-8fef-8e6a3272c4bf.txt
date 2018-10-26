@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"++9?/*!=","inputPhrase":" +9 ?]\\=","timestamps":" 23:09:32  23:09:34+ 23:09:389 23:09:43  23:09:46? 23:09:50] 23:09:58\\ 23:10:01="}

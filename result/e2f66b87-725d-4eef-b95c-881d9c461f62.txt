@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p2","targetPhrase":"one heck of a question","inputPhrase":"one heck of a wiestion","timestamps":" 19:05:32o 19:05:34n 19:05:35e 19:05:37  19:05:38h 19:05:40e 19:05:41c 19:05:43k 19:05:44  19:05:46o 19:05:47f 19:05:49  19:05:50a 19:05:51  19:05:54w 19:05:56i 19:05:57e 19:05:59s 19:06:01t 19:06:02i 19:06:04o 19:06:05n"}

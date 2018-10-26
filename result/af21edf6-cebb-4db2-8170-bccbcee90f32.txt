@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p2","targetPhrase":"my watch fell in the water","inputPhrase":"mumeatbj te.p ok yzyry","timestamps":" 19:01:20m 19:01:21u 19:01:22m 19:01:22e 19:01:23a 19:01:23t 19:01:24b 19:01:25j 19:01:25  19:01:26t 19:01:26e 19:01:27. 19:01:28p 19:01:28  19:01:29o 19:01:29k 19:01:30  19:01:31y 19:01:32z 19:01:33y 19:01:33r 19:01:33y"}

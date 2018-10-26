@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p1","targetPhrase":"that is a nasty cut","inputPhrase":"that is a nasty cat","timestamps":" 18:37:18t 18:37:19h 18:37:21a 18:37:23t 18:37:25  18:37:27i 18:37:28s 18:37:31  18:37:33a 18:37:35  18:37:37n 18:37:39a 18:37:41s 18:37:42t 18:37:44y 18:37:46  18:37:48c 18:37:50a 18:37:51t"}

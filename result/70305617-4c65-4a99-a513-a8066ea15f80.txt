@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p4","targetPhrase":"1*[]34[1","inputPhrase":"1*[]34[1","timestamps":" 20:02:231 20:02:27* 20:02:29[ 20:02:31] 20:02:333 20:02:354 20:02:37[ 20:02:391"}

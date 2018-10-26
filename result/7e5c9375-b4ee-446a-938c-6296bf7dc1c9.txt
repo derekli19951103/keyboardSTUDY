@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"alpha","user":"p2","targetPhrase":"play it again sam","inputPhrase":"play it again sam","timestamps":" 19:07:52p 19:07:53l 19:07:55a 19:07:56y 19:07:57  19:07:59i 19:08:00t 19:08:01  19:08:02a 19:08:03g 19:08:05a 19:08:06i 19:08:07n 19:08:08  19:08:10s 19:08:11a 19:08:12m"}

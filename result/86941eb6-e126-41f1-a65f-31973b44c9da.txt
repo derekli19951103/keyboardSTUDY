@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p4","targetPhrase":"the world is a stage","inputPhrase":"yhe world od ","timestamps":" 00:03:06y 00:03:08h 00:03:10e 00:03:12  00:03:15w 00:03:17o 00:03:19r 00:03:21l 00:03:24d 00:03:27  00:03:29o 00:03:31d 00:03:34 "}

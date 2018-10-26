@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p4","targetPhrase":"rain rain go away","inputPhrase":"yskoyz.bezwz","timestamps":" 19:42:30y 19:42:35s 19:42:36k 19:42:37o 19:42:38y 19:42:38z 19:42:39. 19:42:40b 19:42:41e 19:42:41z 19:42:42w 19:42:42z"}

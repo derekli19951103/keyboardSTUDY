@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"789+=<>%","inputPhrase":"789+=<>%","timestamps":" 23:01:417 23:01:438 23:01:449 23:01:47+ 23:01:48= 23:01:50< 23:01:51> 23:01:53%"}

@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p1","targetPhrase":"~<!,(?;<","inputPhrase":"~$[+<","timestamps":" 18:47:41~ 18:47:45$ 18:47:47[ 18:47:50+ 18:47:53<"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"12345678","inputPhrase":"12345678","timestamps":" 23:01:041 23:01:052 23:01:063 23:01:114 23:01:135 23:01:146 23:01:167 23:01:178"}

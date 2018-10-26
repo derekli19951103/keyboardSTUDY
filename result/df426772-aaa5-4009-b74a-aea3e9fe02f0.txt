@@ -1,0 +1,1 @@
+{"movement":"still","type":"zoom","mode":"symbol","user":"p1","targetPhrase":".*.#&!}[","inputPhrase":"`*`&!}[","timestamps":" 18:45:06` 18:45:09* 18:45:10` 18:45:13& 18:45:16! 18:45:19} 18:45:22["}

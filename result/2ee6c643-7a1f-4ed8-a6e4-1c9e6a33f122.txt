@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"love means many things","inputPhrase":"opje .arwhkmsuyruing","timestamps":" 22:36:42o 22:36:43p 22:36:44j 22:36:45e 22:36:46  22:36:47. 22:36:48a 22:36:49r 22:36:49w 22:36:50h 22:36:50k 22:36:51m 22:36:52s 22:36:53u 22:36:54y 22:36:55r 22:36:56u 22:36:57i 22:36:58n 22:36:59g"}

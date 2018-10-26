@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p3","targetPhrase":"++=^6<$:","inputPhrase":"++=^6<$","timestamps":" 23:03:40+ 23:03:42+ 23:03:44= 23:03:52^ 23:03:556 23:03:57< 23:03:59$"}

@@ -1,0 +1,1 @@
+{"movement":"still","type":"normal","mode":"alpha","user":"p3","targetPhrase":"time to go shopping","inputPhrase":"gi etogoxhoppong","timestamps":" 22:31:31g 22:31:33i 22:31:34  22:31:35e 22:31:37t 22:31:38o 22:31:39g 22:31:40o 22:31:41x 22:31:42h 22:31:44o 22:31:44p 22:31:45p 22:31:46o 22:31:48n 22:31:49g"}

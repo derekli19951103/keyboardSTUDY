@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"alpha","user":"p3","targetPhrase":"I agree with you","inputPhrase":"kofwagertqirbypu","timestamps":" 22:37:19k 22:37:20o 22:37:20f 22:37:21w 22:37:21a 22:37:22g 22:37:23e 22:37:23r 22:37:25t 22:37:26q 22:37:27i 22:37:28r 22:37:29b 22:37:30y 22:37:31p 22:37:32u"}

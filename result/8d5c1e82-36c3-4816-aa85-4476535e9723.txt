@@ -1,0 +1,1 @@
+{"movement":"moving","type":"normal","mode":"symbol","user":"p1","targetPhrase":"~<!,(?;<","inputPhrase":"#<2)]=$","timestamps":" 18:31:38# 18:31:41< 18:31:432 18:31:45) 18:31:48] 18:31:49= 18:31:51$"}

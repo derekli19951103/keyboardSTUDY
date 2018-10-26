@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"symbol","user":"p4","targetPhrase":">&$?#9$}","inputPhrase":">&$?#9$)","timestamps":" 01:12:39> 01:12:43& 01:12:46$ 01:12:49? 01:12:52# 01:12:549 01:12:56$ 01:12:59)"}

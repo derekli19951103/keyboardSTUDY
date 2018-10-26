@@ -1,0 +1,1 @@
+{"movement":"moving","type":"zoom","mode":"alpha","user":"p3","targetPhrase":"I hate baking pies","inputPhrase":"mfatbafui,detpus","timestamps":" 22:47:00m 22:47:02f 22:47:03a 22:47:05t 22:47:08b 22:47:09a 22:47:10f 22:47:12u 22:47:13i 22:47:13, 22:47:14d 22:47:15e 22:47:16t 22:47:18p 22:47:20u 22:47:22s"}
