@@ -3,6 +3,9 @@ from fuzzywuzzy import fuzz
 import os
 import sys
 import pandas as pd
+import statsmodels
+import statsmodels.api as sm
+from statsmodels.formula.api import ols
 
 
 def get_total_time(str1, str2):
@@ -47,8 +50,7 @@ if __name__ == "__main__":
                 total_times.append(get_total_time(times[1][:-1], times[-1][:-1]))
                 longest_pauses.append(longest_pause(times[1:]))
                 accuracies.append(accuracy(data['targetPhrase'], data['inputPhrase']))
-    dataframe = {'Userid': users, 'Keyboard Type': types, 'Input type': modes, 'Movement': movements,
-                 'Total Time': total_times, 'Longest Pause': longest_pauses, 'Accuracy': accuracies}
+    dataframe = {'Userid': users, 'KeyboardType': types, 'InputType': modes, 'Movement': movements,
+                 'TotalTime': total_times, 'LongestPause': longest_pauses, 'Accuracy': accuracies}
     df = pd.DataFrame(dataframe)
-    print(df)
-    print(len(df.loc[df['Userid']=='p2']))
+    df.to_csv('out.csv')
