@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.5.1",
-    "react-dev-utils": "^5.0.2",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.5.1",
     "react-meta-tags": "^0.7.1",
     "react-router-dom": "^4.3.1",
